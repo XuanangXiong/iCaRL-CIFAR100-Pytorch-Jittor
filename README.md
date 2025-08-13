@@ -22,6 +22,9 @@ numpy
 python -u main.py
 ```
 
+## 项目结构
+
+
 
 ## 结果
 ### Pytorch框架结果
@@ -51,7 +54,12 @@ python -u main.py
 #### Loss变化曲线对比
 <img width="4468" height="2365" alt="loss_comparison" src="https://github.com/user-attachments/assets/a3026c4e-9069-4cec-abc1-6d7f7cf9bccb" />
 
+#### 对比总结
 #### ![252f75d25d808f199c55b8238a3a8df2](https://github.com/user-attachments/assets/2ac30ca8-233e-4f9f-a692-7e5a5ee2c66f)
+
+## 说明
+- Learning Rate在本项目中对结果影响巨大，
+
 
 
 
