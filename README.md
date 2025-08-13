@@ -74,7 +74,7 @@ python -u main.py
 #### 遗忘矩阵(Pytorch,lr=0.1)
 <img style="width: 50%" alt="forgetting_matrix_task_9" src="https://github.com/user-attachments/assets/aff5b066-48c7-4e9b-acd2-9764151eda2b" />
 
-- lr的值对正确率-遗忘率的影响正是连续学习中很经典的稳定-可塑权衡，由于暂时缺少计算资源，计划今后为项目添加lr快速1调参脚本以寻找稳定-可塑平衡点。
+- lr的值对正确率-遗忘率的影响正是连续学习中很经典的稳定-可塑权衡，由于暂时缺少计算资源，计划今后为项目添加lr快速调参脚本以寻找稳定-可塑平衡点。
 - Jittor框架在本项目中性能明显低于Pytorch脚本，可能有以下原因：
   * 项目源于Pytorch，迁移时各类函数性能差异与迁移产生的Bug导致性能下降
   * 数据增强部分Jittor的RandomCrop缺少Padding参数，手动实现导致性能差异
