@@ -26,4 +26,4 @@ python -u main.py
 #### 当前任务准确率与累计任务准确率变化曲线
 <img width="4491" height="1468" alt="accuracy_curves_task_9" src="https://github.com/user-attachments/assets/d16392c5-6989-45a0-96c9-0e4dd6b5c083" />
 #### 遗忘矩阵
-<img width="1229" height="1186" alt="forgetting_matrix_task_9" src="https://github.com/user-attachments/assets/a838dd39-64a9-4cc5-872c-ec310b77aa3c" />
+<img style="width: 50%;" alt="forgetting_matrix_task_9" src="https://github.com/user-attachments/assets/a838dd39-64a9-4cc5-872c-ec310b77aa3c" />
