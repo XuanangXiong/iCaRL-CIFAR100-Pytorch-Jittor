@@ -1,0 +1,2 @@
+# iCaRL-CIFAR100-Pytorch-Jittor
+分别基于Pytorch框架和Jittor框架在CIFAR100数据集上实现了连续学习模型iCaRL
